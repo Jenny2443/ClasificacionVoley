@@ -1,0 +1,28 @@
+Edificacion-Informatica-0-2
+Industriales-Sistemas Informatica-2-1
+Montes-Navales-2-0
+Aeronauticos-Sistemas Teleco-1-2
+Navales-Aeronauticos-0-2
+Informatica-Sistemas Teleco-1-2
+Sistemas Informatica-Montes-2-0
+Edificacion-Industriales-0-2
+Aeronauticos-Sistemas Informatica-1-2
+Montes-Edificacion-2-1
+Industriales-Informatica-2-1
+Sistemas Teleco-Navales-2-0
+Industriales-Montes-2-0
+Sistemas Informatica-Sistemas Teleco-1-2
+Edificacion-Aeronauticos-2-1
+Informatica-Navales-2-0
+Montes-Informatica-0-2
+Aeronauticos-Industriales-2-0
+Sistemas Teleco-Edificacion-2-1
+Navales-Sistemas Informatica-0-2
+Edificacion-Navales-2-0
+Informatica-Sistemas Informatica-2-1
+Industriales-Sistemas Teleco-2-0
+Montes-Aeronauticos-0-2
+Navales-Industriales-0-2
+Sistemas Teleco-Montes-2-0
+Aeronauticos-Informatica-0-2
+Sistemas Informatica-Edificacion-1-2
